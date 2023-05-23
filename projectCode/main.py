@@ -2,12 +2,12 @@
 # Created by: PyQt5 UI code generator 5.6
 
 from PyQt5 import QtCore, QtGui, QtWidgets
-from FCFS import Ui_FCFS
-from SJF_preem import Ui_SJF_preem
-from SJF_non import Ui_SJF_non_preem
-from RR import Ui_RR
-from priority_preem import Ui_priority_preem
-from priority_non_preem import Ui_priority_non_preem
+from FCFS_info import Ui_FCFS_info
+from SJF_preem_info import Ui_SJF_preem_info
+from SJF_non_info import Ui_SJF_non_info
+from RR_info import Ui_RR_info
+from priority_preem_info import Ui_priority_preem_info
+from priority_non_info import Ui_priority_non_info
 
 
 class Ui_first(object):
